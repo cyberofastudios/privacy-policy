@@ -1,31 +1,32 @@
-# Privacy Policy for Body Metric & BMI Calculator
+# Privacy Policy for FitOFA
 
-Last updated: September 2026
+**Last updated:** November 2026
 
-CyberOFA Studios ("we", "our", or "us") respects your privacy. This Privacy Policy explains how our mobile application handles user data.
+CyberOFA Studios ("we", "our", or "us") respects your privacy. This Privacy Policy explains how our mobile application, **FitOFA**, handles user data.
 
 ## 1. Information We Process
-Our application calculates Body Mass Index (BMI), body fat percentage, and related physical metrics. To provide these calculations, the application processes the following user-input data:
-- Physical attributes: Height, Weight, Age, Gender, and optional neck/waist/hip measurements.
+
+Our application provides Body Mass Index (BMI) calculations, body fat percentage estimates, Basal Metabolic Rate (BMR) analysis, and daily/weekly calorie tracking. To provide these features, the application processes the following user-input data:
+
+* **Biometric & Physical Attributes:** Height, weight, age, gender, and body measurements (neck, waist, hip circumference).
+* **Activity & Calorie Tracking Data:** Daily step count, workout/exercise type, exercise duration, daily caloric intake, and thermic effect of food (TEF) estimates.
 
 ## 2. On-Device Processing & Storage (Local Data)
-- **Local Execution:** All calculations and visual data transformations are processed entirely locally on your device.
-- **No External Servers:** We do not collect, store, transmit, or back up your personal health or biometric data to external servers, cloud storage, or third-party databases.
-- **Data Retention:** Any profile values or history records remain exclusively in the local storage of your application on your device until you clear the application data or uninstall the app.
+
+* **Local Execution:** All calculations, mathematical formulas, and data processing are performed strictly and locally on your device.
+* **No External Servers:** We do not collect, store, transmit, or back up your personal health, fitness, or biometric data to external servers, cloud databases, or third-party services.
+* **Local Storage & Data Retention:** Your input values and 7-day calorie tracking records remain exclusively in the secure local storage (`SharedPreferences`) of your device.
+* **Data Deletion & User Control:** You have full control over your data. You can delete individual daily records directly from the weekly log table using the in-app delete icon, clear all records using the "Clear All Week" button, or wipe all application data by clearing app storage or uninstalling the app.
 
 ## 3. Third-Party Services & Analytics
-The application does not use third-party tracking, analytics, or behavioral tracking SDKs. It does not sell, rent, or trade your personal or health information to third parties or advertising networks.
 
-## 4. Device Permissions
-The application does not request access to sensitive hardware permissions such as camera, microphone, GPS location, contacts, or internal storage photos.
+The application does not use third-party tracking, analytics, or behavioral advertising SDKs. It does not sell, rent, or trade your personal or fitness information to third parties.
 
-## 5. Children's Privacy
-Our application does not knowingly collect personal identifiable information from children under the age of 13.
+## 4. Permissions
 
-## 6. Changes to This Privacy Policy
-We may update our Privacy Policy from time to time. We encourage users to review this page periodically for any changes.
+FitOFA does not require or request sensitive device permissions (such as camera, precise location, contacts, or microphone) to function.
 
-## 7. Contact Us
-If you have any questions or suggestions regarding this Privacy Policy, feel free to contact us:
-- Developer / Studio: CyberOFA Studios
-- Contact Email: cyberofastudios@gmail.com
+## 5. Contact Us
+
+If you have questions or suggestions about our Privacy Policy, please contact us at:  
+**cyberofastudios@gmail.com**
